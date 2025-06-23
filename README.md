@@ -8,6 +8,11 @@
     <summary><h1 style="display: inline-block">Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Neiza C. Ricaldi</h1></summary>
   </ul>
 </div>
+<div align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EA5BA3&center=true&vCenter=true&width=600&lines=Software+Developer+%F0%9F%92%BB;Solving+problems+through+code+%E2%9C%A8;Passionate+about+minimalist+design+%F0%9F%96%8C%EF%B8%8F;Always+learning+something+new+%F0%9F%93%9A"
+  alt="Typing SVG" /></a>
+</div>
 
 
 <!--About Me-->
@@ -103,24 +108,62 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+<p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+  </a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
-   
-<!--
-**Neiza3711/Neiza3711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<details>
+<summary><h3>💻 GitHub Profile Stats</h3></summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Neiza3711&show_icons=true&count_private=true&hide_border=true&title_color=ea5ba3&icon_color=9ec5d1&text_color=555&bg_color=ffffff" height="230px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neiza3711&langs_count=8&layout=compact&hide_border=true&title_color=ea5ba3&text_color=555&bg_color=ffffff" height="230px"/>
+</p>
+
+<b>Note:</b> Top languages is a metric of your public code and doesn't reflect skill level.
+</details>
+<details>
+<summary><h3>⚡ Recent GitHub Activity</h3></summary>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neiza3711&bg_color=ffffff&color=ea5ba3&line=9ec5d1&point=b4ddaa&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+</details>
+<details>
+<summary><h3>🏆 GitHub Trophies</h3></summary>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Neiza3711&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+  </a>
+</p>
+
+</details>
+<details>
+<summary><h3>📂 My Repositories</h3></summary>
+
+<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
+<br/>
+
+<p align="center">
+  <a href="https://github.com/Neiza3711/studio-somlo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Neiza3711&repo=studio-somlo&theme=default&title_color=ea5ba3&text_color=9ec5d1&icon_color=98d98e" /></a>
+
+  <a href="https://github.com/Neiza3711/curso-php">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Neiza3711&repo=curso-php&theme=default&title_color=ea5ba3&text_color=9ec5d1&icon_color=98d98e" /></a>
+
+</details>
+
+## 🐍 A Snake Eating My Contributions Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Neiza3711/Neiza3711/output/github-contribution-grid-snake.gif" alt="snake gif" />
+</p>   
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
