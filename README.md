@@ -25,12 +25,25 @@
 - :mortar_board: Graduate in Multiplatform Application Development (DAM) 
 - :octocat: **Currently working on** `Frontend Development` **&** `Mobile UX/UI` 
 - :boom: Soon starting a specialization in **Artificial Intelligence & Big Data**  
-- :mailbox_with_mail: Feel free to **reach me** [![Email](https://img.shields.io/static/v1?label=email&message=neizi.3711@gmail.com&color=FF69B4&style=flat-square)](mailto:neizi.3711@gmail.com) 
 - :shipit: Always believe "Code, coffee, and consistency — that’s how dreams are built." :coffee::computer::hibiscus:
-
 <br>
 
-## 🛠️ My Skills
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%">Connect with me 
+<p align="center">
+  <a href="mailto:neizi.3711@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-neizi.3711@gmail.com-FF69B4?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" style="padding: 8px;" /></a>
+  &emsp;
+  <a href="https://github.com/Neiza3711" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Neiza3711-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" style="padding: 8px;" /></a>
+  &emsp;
+  <a href="https://www.linkedin.com/feed/?trk=sem-ga_campid.18146679037_asid.140850334975_crid.694860685343_kw.linkedin_d.c_tid.kwd-148086543_n.g_mt.e_geo.9214695" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Neiza Ricaldi-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="padding: 8px;" /></a>
+  &emsp;
+  <a href="https://www.instagram.com/neizi711/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@neizi711-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" style="padding: 8px;" /></a>
+</p>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
 <p align="center">
@@ -78,6 +91,24 @@
   <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
   <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"></a>
   <a href="#"><img alt="Xcode" src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"></a>
+
+ ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width=5%>  Operating Systems
+<p align="center">
+  &emsp;
+  <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"></a>
+  &emsp;
+  <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white"></a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align = "center">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
    
 <!--
 **Neiza3711/Neiza3711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
