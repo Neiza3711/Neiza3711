@@ -29,7 +29,7 @@
 - :iphone: Creator of **Studio SØMLO**, built with React Native + Firebase
 - :mortar_board: Graduate in Multiplatform Application Development (DAM) 
 - :octocat: **Currently working on** `Frontend Development` **&** `Mobile UX/UI` 
-- :boom: Soon starting a specialization in **Artificial Intelligence & Big Data**  
+- :boom: **🤖 Specialized in Artificial Intelligence & Big Data**  
 - :shipit: Always believe "Code, coffee, and consistency — that’s how dreams are built." :coffee::computer::hibiscus:
 <br>
 
@@ -54,6 +54,8 @@
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+  <a href="https://www.python.org/" target="_blank">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
   <a href="https://www.java.com/" target="_blank">
     <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
@@ -74,8 +76,31 @@
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
   <a href="https://react.dev/" target="_blank">
     <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"></a>
+  <a href="https://reactnative.dev/" target="_blank">
+    <img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+</p>
+
+### 🤖 AI & Big Data
+<p align="center">
+  <a href="https://www.python.org/" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+
+  <a href="https://huggingface.co/" target="_blank">
+    <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"></a>
+
+  <a href="https://colab.research.google.com/" target="_blank">
+    <img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"></a>
+
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"></a>
+
+  <a href="https://hive.apache.org/" target="_blank">
+    <img alt="Apache Hive" src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apache&logoColor=black"></a>
 </p>
 
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=5%>  Software & Tools
@@ -136,16 +161,7 @@
 
 </details>
 <details>
-<summary><h3>🏆 GitHub Trophies</h3></summary>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Neiza3711&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-  </a>
-</p>
-
-</details>
-<details>
 <summary><h3>📂 My Repositories</h3></summary>
 
 <a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
